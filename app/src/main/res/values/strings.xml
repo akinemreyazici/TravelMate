@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">odev9</string>
+    <string name="forget_password">Şifremi Unuttum</string>
+    <string name="reset_password">Reset my password</string>
+    <string name="login">Giriş yap</string>
+    <string name="register">Kayıt ol</string>
+    <string name="title_activity_app">AppActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_places">Places</string>
+    <string name="menu_account">Account</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="cities">
+        <item>ADANA</item>
+        <item>ADIYAMAN</item>
+        <item>AFYONKARAHİSAR</item>
+        <item>AĞRI</item>
+        <item>AKSARAY</item>
+        <item>AMASYA</item>
+        <item>ANKARA</item>
+        <item>ANTALYA</item>
+        <item>ARDAHAN</item>
+        <item>ARTVİN</item>
+        <item>AYDIN</item>
+        <item>BALIKESİR</item>
+        <item>BARTIN</item>
+        <item>BATMAN</item>
+        <item>BAYBURT</item>
+        <item>BİLECİK</item>
+        <item>BİNGÖL</item>
+        <item>BİTLİS</item>
+        <item>BOLU</item>
+        <item>BURDUR</item>
+        <item>BURSA</item>
+        <item>ÇANAKKALE</item>
+        <item>ÇANKIRI</item>
+        <item>ÇORUM</item>
+        <item>DENİZLİ</item>
+        <item>DİYARBAKIR</item>
+        <item>DÜZCE</item>
+        <item>EDİRNE</item>
+        <item>ELAZIĞ</item>
+        <item>ERZİNCAN</item>
+        <item>ERZURUM</item>
+        <item>ESKİŞEHİR</item>
+        <item>GAZİANTEP</item>
+        <item>GİRESUN</item>
+        <item>GÜMÜŞHANE</item>
+        <item>HAKKARİ</item>
+        <item>HATAY</item>
+        <item>IĞDIR</item>
+        <item>ISPARTA</item>
+        <item>İSTANBUL</item>
+        <item>İZMİR</item>
+        <item>KAHRAMANMARAŞ</item>
+        <item>KARABÜK</item>
+        <item>KARAMAN</item>
+        <item>KARS</item>
+        <item>KASTAMONU</item>
+        <item>KAYSERİ</item>
+        <item>KIRIKKALE</item>
+        <item>KIRKLARELİ</item>
+        <item>KIRŞEHİR</item>
+        <item>KİLİS</item>
+        <item>KOCAELİ</item>
+        <item>KONYA</item>
+        <item>KÜTAHYA</item>
+        <item>MALATYA</item>
+        <item>MANİSA</item>
+        <item>MARDİN</item>
+        <item>MERSİN</item>
+        <item>MUĞLA</item>
+        <item>MUŞ</item>
+        <item>NEVŞEHİR</item>
+        <item>NİĞDE</item>
+        <item>ORDU</item>
+        <item>OSMANİYE</item>
+        <item>RİZE</item>
+        <item>SAKARYA</item>
+        <item>SAMSUN</item>
+        <item>SİİRT</item>
+        <item>SİNOP</item>
+        <item>SİVAS</item>
+        <item>ŞANLIURFA</item>
+        <item>ŞIRNAK</item>
+        <item>TEKİRDAĞ</item>
+        <item>TOKAT</item>
+        <item>TRABZON</item>
+        <item>TUNCELİ</item>
+        <item>UŞAK</item>
+        <item>VAN</item>
+        <item>YALOVA</item>
+        <item>YOZGAT</item>
+        <item>ZONGULDAK</item>
+    </string-array>
+</resources>
